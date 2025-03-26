@@ -1,0 +1,3 @@
+print("MUNASINGHE")
+print("239142")
+print("WAYMBA UNIVERSITRY OF SRILAMKA")
